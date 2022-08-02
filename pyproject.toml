@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "College_API"
+version = "0.1.0"
+description = "Downloaded College database used by Niche from one year ago"
+authors = ["Sidharth Rao <sidharthmrao@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+shutup = "^0.2.0"
+pandas = "^1.4.3"
+requests = "^2.28.1"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
