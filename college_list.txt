@@ -1,0 +1,1381 @@
+Marywood University
+Lindenwood University
+Sullivan University
+Michigan State University
+Xavier University
+Tusculum College
+University of Maryland - College Park
+University of Illinois at Urbana - Champaign
+Monroe College
+Texas State University
+University of California - Los Angeles
+DigiPen Institute of Technology
+College of Mount Saint Vincent
+ECPI University
+University of Mary Washington
+Baldwin Wallace University
+Brandman University
+Florida Gulf Coast University
+Athens State University
+Eastern Florida State College
+Western New England University
+King University
+Georgia Gwinnett College
+Trident University International
+Roosevelt University
+Wichita Technical Institute
+Park University
+Utah Valley University
+Wisconsin Lutheran College
+Wagner College
+Wilmington University
+Young Harris College
+The University of Findlay
+Columbia Basin College
+Lipscomb University
+Tiffin University
+Troy University
+California Baptist University
+Stevenson University
+Maryville University of Saint Louis
+The Art Institutes International - Minnesota
+University of Central Oklahoma
+Keiser University - Ft Lauderdale
+Saint Johns River State College
+Indian River State College
+Barnard College
+University of La Verne
+University of Washington - Seattle Campus
+Touro College
+New Jersey City University
+Lander University
+SUNY Maritime College
+Lesley University
+National Park Community College
+Oklahoma Christian University
+San Diego Christian College
+New College of Florida
+Grand Canyon University
+Albany State University
+Lasell College
+Mount St Mary's University
+Northwest Florida State College
+West Virginia Wesleyan College
+Utica College
+College of Southern Nevada
+University of North Georgia
+Lynn University
+University of Colorado Boulder
+Valencia College
+St Petersburg College
+Globe University - Woodbury
+Everest College - Arlington
+Full Sail University
+YTI Career Institute - York
+University of Kansas
+Columbus State University
+Morehead State University
+Stratford University
+Baker College of Auburn Hills
+The College of New Jersey
+Abilene Christian University
+Adelphi University
+Agnes Scott College
+Aiken Technical College
+University of Alabama at Birmingham
+Alabama State University
+Albion College
+Alfred University
+Allegheny College
+Alma College
+Alverno College
+American International College
+Inter American University of Puerto Rico - Metro
+Amherst College
+Andrews University
+Angelo State University
+Anne Arundel Community College
+Appalachian State University
+St. Thomas Aquinas College
+Arizona State University - Tempe
+Arizona Western College
+Arkansas State University - Main Campus
+Arkansas Tech University
+Ashland University
+Assumption College
+Auburn University
+Auburn University at Montgomery
+Augsburg College
+Augustana University
+Augusta University
+Aurora University
+Austin College
+Austin Community College District
+Austin Peay State University
+Azusa Pacific University
+Babson College
+Baker University
+Ball State University
+Maranatha Baptist University
+Bard College
+Barry University
+Bates College
+Baylor University
+Bellevue University
+Belmont University
+Beloit College
+Bemidji State University
+Benedictine College
+Bennington College
+Berea College
+Berklee College of Music
+Bethany Lutheran College
+Bethel University
+Biola University
+Birmingham Southern College
+Black Hills State University
+Bob Jones University
+Boise State University
+Boston College
+Boston University
+Bowdoin College
+Bowie State University
+Bowling Green State University - Main Campus
+Bradley University
+Brandeis University
+Brenau University
+Bridgewater College
+Brigham Young University - Provo
+Brigham Young University - Idaho
+Brigham Young University - Hawaii
+Broward College
+Brown University
+Bryn Mawr College
+Bucknell University
+Buena Vista University
+Butler University
+California Lutheran University
+The California Maritime Academy
+California State University - Long Beach
+Calvin College
+Cameron University
+Campbell University
+Canisius College
+Capella University
+Carleton College
+Carnegie Mellon University
+John Carroll University
+Carthage College
+Case Western Reserve University
+Catholic University of America
+Centenary College of Louisiana
+North Central College
+Central Michigan University
+Central Washington University
+Centre College
+Chadron State College
+Champlain College
+Chapman University
+Chesapeake College
+Cheyney University of Pennsylvania
+Christian Brothers University
+Christopher Newport University
+CUNY Graduate School and University Center
+Claremont McKenna College
+Clarkson University
+Clark University
+Clemson University
+Cleveland State University
+Coastal Carolina University
+InterCoast Colleges - Roseville
+Coe College
+Coker College
+Colby College
+Colgate University
+College of Charleston
+The College of New Rochelle
+College of Saint Benedict
+The College of Saint Rose
+College of the Holy Cross
+College of William and Mary
+The College of Wooster
+Colorado Christian University
+Colorado College
+Colorado Mesa University
+Colorado School of Mines
+Colorado State University - Fort Collins
+Colorado Technical University - Colorado Springs
+Columbia Southern University
+Columbia University in the City of New York
+Connecticut College
+Coppin State University
+Cornell College
+Cornell University
+Corning Community College
+Creighton University
+Curry College
+Daemen College
+North Dakota State University - Main Campus
+Dakota Wesleyan University
+Dallas Baptist University
+Dartmouth College
+Davenport University
+Davidson College
+Davis & Elkins College
+Daytona State College
+Delaware State University
+Delta State University
+Denison University
+DePaul University
+DePauw University
+Dickinson College
+Dickinson State University
+Dillard University
+Dominican College of Blauvelt
+Dordt College
+Drake University
+Drew University
+Drexel University
+Duke University
+Duquesne University
+Earlham College
+East Carolina University
+East Central University
+Western Illinois University
+Eastern Kentucky University
+Eastern Mennonite University
+Western Michigan University
+Eastern New Mexico University - Main Campus
+Western Oregon University
+Western Washington University
+East Tennessee State University
+Edgewood College
+Elizabeth City State University
+Elizabethtown College
+Elmhurst College
+Emerson College
+Emmanuel College
+Emory University
+Emporia State University
+Erie Community College
+East Texas Baptist University
+The Evergreen State College
+Fairleigh Dickinson University - Metropolitan Campus
+Fairmont State University
+Fayetteville State University
+Ferris State University
+Fisk University
+Florida Atlantic University
+Florida Institute of Technology
+Florida International University
+Florida State University
+Fordham University
+Fort Hays State University
+Fort Lewis College
+Franklin and Marshall College
+Franklin University
+Frederick Community College
+Fresno Pacific University
+Friends University
+Frostburg State University
+Furman University
+Gallaudet University
+Gannon University
+Geneva College
+George Mason University
+Georgetown University
+George Washington University
+Georgia College and State University
+Georgia Institute of Technology - Main Campus
+Georgian Court University
+Georgia Southern University
+Georgia State University
+Gettysburg College
+Gonzaga University
+Goshen College
+Goucher College
+Governors State University
+Grace College and Theological Seminary
+Grand Valley State University
+Grinnell College
+Guilford College
+Gustavus Adolphus College
+Hagerstown Community College
+Hamilton College
+Hamline University
+Hampshire College
+Hampton University
+Hanover College
+Harding University
+Harford Community College
+Hartwick College
+Harvard University
+Harvey Mudd College
+Hastings College
+Hawaii Pacific University
+Hendrix College
+High Point University
+Hiram College
+Hofstra University
+Hollins University
+Hood College
+Hope College
+Howard Community College
+Howard University
+Humboldt State University
+CUNY Hunter College
+Huntingdon College
+Huntington University
+Idaho State University
+Illinois Institute of Technology
+Illinois State University
+Indiana Institute of Technology
+Indiana State University
+Indiana University - Bloomington
+Indiana Wesleyan University - Marion
+Iona College
+Iowa State University
+Irvine Valley College
+Ithaca College
+Jackson State University
+Jacksonville State University
+Jacksonville University
+James Madison University
+John Brown University
+Johns Hopkins University
+Johnson & Wales University - Providence
+Johnson C Smith University
+Juniata College
+Kalamazoo College
+Kansas State University
+Kansas Wesleyan University
+Kaplan University - Cedar Rapids Campus
+Keene State College
+Kennesaw State University
+Kent State University at Kent
+West Kentucky Community and Technical College
+Kenyon College
+Kettering University
+Knox College
+Lafayette College
+LaGrange College
+Lake Forest College
+Lake Superior College
+Lake Superior State University
+Lamar University
+Langston University
+La Sierra University
+St Lawrence University
+Lebanon Valley College
+Lehigh University
+Le Moyne College
+Lenoir Community College
+LeTourneau University
+Lewis University
+Liberty University
+Lincoln University
+Linfield College - McMinnville Campus
+Lock Haven University
+Loma Linda University
+Longwood University
+Loras College
+Louisiana College
+Louisiana State University - Shreveport
+Louisiana Tech University
+Loyola Marymount University
+Loyola University Chicago
+Luther College
+Lycoming College
+Lynchburg College
+Lyndon State College
+Lyon College
+Macalester College
+Manhattan College
+Marietta College
+Marist College
+Marquette University
+Marshall University
+Mary Baldwin College
+Marymount Manhattan College
+McDaniel College
+McMurry University
+McNeese State University
+Mercer County Community College
+Mercer University
+Mount Mercy University
+Meredith College
+Messiah College
+Metropolitan State University of Denver
+MidAmerica Nazarene University
+Middlebury College
+Midwestern State University
+Milligan College
+Millikin University
+Millsaps College
+Milwaukee School of Engineering
+Minnesota State University - Mankato
+Minot State University
+Mississippi College
+Mississippi State University
+Mississippi University for Women
+Missouri Western State University
+Molloy College
+Monmouth College
+Monmouth University
+Montana Tech of the University of Montana
+Montclair State University
+Montgomery College
+Montreat College
+Moravian College
+Morgan State University
+Mott Community College
+Mount Holyoke College
+Mount Saint Mary College
+Murray State University
+National Louis University
+Nazareth College
+Newberry College
+Rutgers University - New Brunswick
+New Mexico Highlands University
+New Mexico Institute of Mining and Technology
+New Mexico State University - Main Campus
+New York Institute of Technology
+New York University
+Niagara University
+Nicholls State University
+Norfolk State University
+Northampton County Area Community College
+University of North Carolina at Chapel Hill
+North Carolina State University at Raleigh
+North Carolina Wesleyan College
+Northeastern State University
+Northeastern University
+Northern Arizona University
+Northern Illinois University
+Northern Kentucky University
+Northern Michigan University
+Northern State University
+Northland College
+University of North Texas
+Northwestern State University of Louisiana
+Northwestern University
+Northwest Nazarene University
+Norwich University
+Nova Southeastern University
+Oakland University
+Oakwood University
+Oberlin College
+Occidental College
+Ohio Northern University
+Ohio State University - Main Campus
+Ohio University - Main Campus
+Ohio Wesleyan University
+Oklahoma Baptist University
+Oklahoma City University
+Oklahoma State University - Main Campus
+Old Dominion University
+Olivet Nazarene University
+Oral Roberts University
+Oregon Institute of Technology
+Oregon State University
+Our Lady of the Lake University
+Pace University - New York
+Pacific Lutheran University
+Pacific Union College
+Palm Beach State College
+Pennsylvania State University - Penn State Abington
+Pensacola State College
+Pepperdine University
+Peru State College
+Indiana University - Purdue University - Fort Wayne
+Philadelphia University
+Pittsburg State University
+Pitzer College
+Platt College - Los Angeles
+Pomona College
+Portland Community College
+Portland State University
+Prairie View A & M University
+Pratt Institute - Main
+Presbyterian College
+Princeton University
+Providence College
+Purdue University - Main Campus
+Quincy University
+Radford University
+Ramapo College of New Jersey
+Randolph College
+Reed College
+Regent University
+Regis University
+Rensselaer Polytechnic Institute
+Rhode Island College
+Rhodes College
+Rice University
+Rider University
+Ripon College
+Roanoke College
+Robert Morris University Illinois
+Rockford University
+Rocky Mountain College of Art and Design
+Roger Williams University
+Rollins College
+Rowan University
+Sacred Heart University
+The Sage Colleges
+Saginaw Valley State University
+Saint Anselm College
+Saint Cloud State University
+Saint Edward's University
+University of Saint Francis - Fort Wayne
+Saint Joseph's University
+Saint Leo University
+Saint Louis University
+Saint Michael's College
+Saint Vincent College
+Saint Xavier University
+Salisbury University
+Salish Kootenai College
+Samford University
+Sam Houston State University
+San Diego State University
+San Francisco State University
+San Jose State University
+Santa Clara University
+Sarah Lawrence College
+Seattle Central College
+Seattle Pacific University
+Seattle University
+Seton Hall University
+Sewanee - The University of the South
+Shawnee State University
+Shenandoah University
+Simmons College
+Simpson College
+Sinclair Community College
+Skidmore College
+Smith College
+Sonoma State University
+South Dakota State University
+Florida Southern College
+Southern Methodist University
+Southern Nazarene University
+Southern University and A & M College
+Southern Utah University
+Southwest Baptist University
+Southwestern University
+Spelman College
+Spring Arbor University
+Spring Hill College
+Saint Ambrose University
+Stanford University
+St Bonaventure University
+Stephens College
+Stetson University
+Stevens Institute of Technology
+St Louis College of Pharmacy
+St Mary's College of Maryland
+Suffolk University
+Sul Ross State University
+Susquehanna University
+Swarthmore College
+Sweet Briar College
+Syracuse University
+Tabor College
+Tarleton State University
+Taylor University
+Temple University
+Middle Tennessee State University
+Tarrant County College District
+West Texas A & M University
+Texas Christian University
+Texas Southern University
+Texas Tech University
+Texas Woman's University
+Thomas College
+Thomas Edison State University
+Thomas Jefferson University
+Thomas More College
+Towson University
+Transylvania University
+Trine University
+Trinity University
+Truman State University
+Tufts University
+Tulane University of Louisiana
+Tuskegee University
+Union College
+Union Institute & University
+Union University
+Academy of Art University
+University of Akron Main Campus
+University of Alaska Fairbanks
+University of Arizona
+University of Baltimore
+University of Bridgeport
+University of Central Arkansas
+University of Central Florida
+University of Central Missouri
+University of Charleston
+University of Chicago
+University of Cincinnati - Main Campus
+University of Connecticut
+University of Dallas
+University of Dayton
+University of Delaware
+University of Detroit Mercy
+University of Dubuque
+University of Evansville
+University of Florida
+University of Georgia
+University of Great Falls
+University of Guam
+University of Hartford
+University of Hawaii at Hilo
+University of Hawaii at Manoa
+University of Houston
+University of Idaho
+University of Indianapolis
+University of Iowa
+University of Jamestown
+University of Kentucky
+University of Louisville
+University of Maine
+University of Maine at Fort Kent
+University of Maine at Machias
+University of Memphis
+University of Miami
+University of Minnesota - Twin Cities
+University of Minnesota - Duluth
+University of Minnesota - Morris
+University of Mississippi
+The University of Montana
+University of Nebraska - Lincoln
+University of Nevada - Reno
+University of New England
+University of New Hampshire - Main Campus
+University of New Haven
+University of New Mexico - Main Campus
+University of New Orleans
+University of North Dakota
+University of Northern Colorado
+University of Northern Iowa
+University of North Florida
+University of Notre Dame
+University of Oklahoma - Norman Campus
+University of Oregon
+University of Pennsylvania
+University of Phoenix - Hawaii
+University of Pittsburgh - Pittsburgh Campus
+University of Portland
+Inter American University of Puerto Rico - Fajardo
+University of Puget Sound
+University of Redlands
+University of Rhode Island
+University of Richmond
+University of Rochester
+University of San Diego
+University of San Francisco
+Missouri University of Science and Technology
+University of Scranton
+University of Sioux Falls
+University of South Alabama
+University of South Carolina - Columbia
+Anderson University
+University of South Dakota
+University of Southern Indiana
+University of Southern Maine
+University of South Florida - Main Campus
+The University of Tampa
+The University of Tennessee - Chattanooga
+The University of Texas at Austin
+The University of Texas at Dallas
+The University of Texas at El Paso
+The University of Texas at Tyler
+University of the Incarnate Word
+University of the Ozarks
+University of the Pacific
+University of the Virgin Islands
+University of Toledo
+University of Tulsa
+University of Utah
+University of Vermont
+University of Virginia - Main Campus
+University of West Alabama
+The University of West Florida
+University of Wisconsin - Stout
+University of Wyoming
+Upper Iowa University
+Ursinus College
+Utah State University
+Valdosta State University
+Valley City State University
+Valparaiso University
+Vanderbilt University
+Vassar College
+Vermont Technical College
+Villanova University
+Virginia Commonwealth University
+Virginia Military Institute
+Virginia State University
+Wabash College
+Wake Forest University
+Walden University
+Walla Walla University
+Walsh College of Accountancy and Business Administration
+Warren Wilson College
+Wartburg College
+Washburn University
+Washington State University
+Waubonsee Community College
+Waynesburg University
+Wayne State University
+Weber State University
+Webster University
+Wellesley College
+Wells College
+Wesley College
+West Coast University - Los Angeles
+Western Carolina University
+Western Governors University
+Western Kentucky University
+The University of Montana - Western
+Western New Mexico University
+Westminster College
+Westmont College
+West Virginia University
+Wheaton College
+Whitman College
+Whittier College
+Whitworth University
+Wichita State University
+Widener University - Main Campus
+Wilkes University
+Willamette University
+William Jewell College
+William Paterson University of New Jersey
+Williams College
+William Woods University
+Wilmington College
+Winona State University
+Winthrop University
+Wittenberg University
+Wofford College
+Woodbury University
+Worcester Polytechnic Institute
+Wright State University - Main Campus
+Xavier University of Louisiana
+Yale University
+Yeshiva University
+Youngstown State University
+Houston Baptist University
+Bevill State Community College
+Bishop State Community College
+Gadsden State Community College
+University of California - Davis
+John C Calhoun State Community College
+Shelton State Community College
+Snead State Community College
+Central Arizona College
+Cochise County Community College District
+Coconino Community College
+Eastern Arizona College
+Gateway Community College
+Glendale Community College
+Mesa Community College
+Mohave Community College
+Northland Pioneer College
+Phoenix College
+Pima Community College
+Rio Salado College
+Scottsdale Community College
+South Mountain Community College
+Yavapai College
+Arkansas Northeastern College
+Black River Technical College
+College of the Ouachitas
+East Arkansas Community College
+North Arkansas College
+University of Arkansas
+Ozarka College
+Pulaski Technical College
+Rich Mountain Community College
+South Arkansas Community College
+Southeast Arkansas College
+Allan Hancock College
+American River College
+Antelope Valley College
+Bakersfield College
+Barstow Community College
+Berkeley City College
+Butte College
+Cabrillo College
+Canada College
+Cerritos College
+Cerro Coso Community College
+Chabot College
+Chaffey College
+Citrus College
+City College of San Francisco
+Coastline Community College
+College of Alameda
+College of Marin
+College of San Mateo
+College of the Canyons
+College of the Desert
+College of the Redwoods
+College of the Sequoias
+College of the Siskiyous
+Contra Costa College
+Cosumnes River College
+Crafton Hills College
+Cuesta College
+Cuyamaca College
+Cypress College
+De Anza College
+Diablo Valley College
+East Los Angeles College
+University of California - Berkeley
+Evergreen Valley College
+Folsom Lake College
+Foothill College
+Fresno City College
+Fullerton College
+Gavilan College
+Golden West College
+Grossmont College
+Hartnell College
+Imperial Valley College
+Lake Tahoe Community College
+Laney College
+Las Positas College
+Lassen Community College
+Long Beach City College
+Los Angeles City College
+Los Angeles Harbor College
+Los Angeles Mission College
+Los Angeles Pierce College
+Los Angeles Southwest College
+Los Angeles Valley College
+Los Medanos College
+Mendocino College
+Merced College
+Merritt College
+MiraCosta College
+Mission College
+Modesto Junior College
+Monterey Peninsula College
+Moorpark College
+Moreno Valley College
+MTI College
+Mt San Antonio College
+Napa Valley College
+Norco College
+Ohlone College
+Orange Coast College
+Oxnard College
+Palomar College
+Palo Verde College
+Pasadena City College
+Porterville College
+Reedley College
+Rio Hondo College
+Riverside City College
+Sacramento City College
+Saddleback College
+San Bernardino Valley College
+San Diego City College
+San Diego Mesa College
+San Diego Miramar College
+San Joaquin Delta College
+San Jose City College
+Santa Ana College
+Santa Barbara City College
+Santa Monica College
+Santa Rosa Junior College
+Santiago Canyon College
+Shasta College
+Sierra College
+Skyline College
+Solano Community College
+Taft College
+Ventura College
+Victor Valley College
+West Los Angeles College
+West Valley College
+Woodland Community College
+Yuba College
+Aims Community College
+Arapahoe Community College
+Community College of Aurora
+Community College of Denver
+Front Range Community College
+Morgan Community College
+Northeastern Junior College
+Otero Junior College
+Pikes Peak Community College
+Pueblo Community College
+Red Rocks Community College
+Trinidad State Junior College
+Asnuntuck Community College
+Capital Community College
+Housatonic Community College
+Manchester Community College
+Middlesex Community College
+Norwalk Community College
+Three Rivers Community College
+Tunxis Community College
+Florida Keys Community College
+Hillsborough Community College
+North Florida Community College
+Tallahassee Community College
+Albany Technical College
+Athens Technical College
+Atlanta Technical College
+Augusta Technical College
+Bainbridge State College
+Chattahoochee Technical College
+Columbus Technical College
+Darton State College
+Georgia Highlands College
+Georgia Military College
+Georgia Perimeter College
+Gwinnett Technical College
+Lanier Technical College
+Moultrie Technical College
+North Georgia Technical College
+Ogeechee Technical College
+Savannah Technical College
+Southeastern Technical College
+South Georgia Technical College
+West Georgia Technical College
+Hawaii Community College
+Honolulu Community College
+Kapiolani Community College
+Kauai Community College
+Leeward Community College
+Windward Community College
+College of Southern Idaho
+College of Western Idaho
+Eastern Idaho Technical College
+North Idaho College
+Black Hawk College
+Carl Sandburg College
+College of DuPage
+College of Lake County
+Danville Area Community College
+Elgin Community College
+William Rainey Harper College
+Heartland Community College
+Highland Community College
+Illinois Central College
+John A Logan College
+John Wood Community College
+Joliet Junior College
+Kankakee Community College
+Kaskaskia College
+Kishwaukee College
+Lake Land College
+Lincoln Land Community College
+McHenry County College
+Moraine Valley Community College
+Morton College
+Oakton Community College
+Parkland College
+Prairie State College
+Rend Lake College
+Richland Community College
+Rock Valley College
+Sauk Valley Community College
+Shawnee Community College
+Southeastern Illinois College
+South Suburban College
+Southwestern Illinois College
+Spoon River College
+Triton College
+Ivy Tech Community College
+Hawkeye Community College
+Indian Hills Community College
+Iowa Central Community College
+Iowa Lakes Community College
+Iowa Western Community College
+Kirkwood Community College
+Marshalltown Community College
+Northeast Iowa Community College
+Northwest Iowa Community College
+Southeastern Community College
+Southwestern Community College
+Allen County Community College
+Barton County Community College
+Butler Community College
+Cloud County Community College
+Coffeyville Community College
+Colby Community College
+Cowley County Community College
+Dodge City Community College
+Flint Hills Technical College
+Fort Scott Community College
+Garden City Community College
+Hutchinson Community College
+Independence Community College
+Johnson County Community College
+Labette Community College
+Neosho County Community College
+Pratt Community College
+Wichita Area Technical College
+Henderson Community College
+Hopkinsville Community College
+Madisonville Community College
+Somerset Community College
+Baton Rouge Community College
+Bossier Parish Community College
+Delgado Community College
+Nunez Community College
+River Parishes Community College
+Central Maine Community College
+Eastern Maine Community College
+Northern Maine Community College
+Southern Maine Community College
+York County Community College
+Allegany College of Maryland
+Baltimore City Community College
+Carroll Community College
+Cecil College
+College of Southern Maryland
+Garrett College
+Berkshire Community College
+Bristol Community College
+Bunker Hill Community College
+Cape Cod Community College
+Greenfield Community College
+Holyoke Community College
+Massasoit Community College
+Northern Essex Community College
+North Shore Community College
+Quincy College
+Quinsigamond Community College
+Roxbury Community College
+Urban College of Boston
+Alpena Community College
+Bay de Noc Community College
+Bay Mills Community College
+Glen Oaks Community College
+Gogebic Community College
+Grand Rapids Community College
+Henry Ford College
+Jackson College
+Kellogg Community College
+Kirtland Community College
+Lake Michigan College
+Lansing Community College
+Macomb Community College
+Mid Michigan Community College
+Monroe County Community College
+Montcalm Community College
+Muskegon Community College
+North Central Michigan College
+Oakland Community College
+Schoolcraft College
+Southwestern Michigan College
+Washtenaw Community College
+West Shore Community College
+Alexandria Technical & Community College
+Anoka - Ramsey Community College
+Anoka Technical College
+Dakota County Technical College
+Hennepin Technical College
+Hibbing Community College
+Inver Hills Community College
+Itasca Community College
+Normandale Community College
+North Hennepin Community College
+Northwest Technical College
+Riverland Community College
+Saint Paul College
+South Central College
+Coahoma Community College
+East Central Community College
+Hinds Community College
+Holmes Community College
+Itawamba Community College
+Jones County Junior College
+Meridian Community College
+Pearl River Community College
+Crowder College
+East Central College
+Washington & Jefferson College
+Mineral Area College
+Missouri State University - Springfield
+Moberly Area Community College
+North Central Missouri College
+State Fair Community College
+St Charles Community College
+Central Community College
+Northeast Community College
+Southeast Community College Area
+Great Bay Community College
+Lakes Region Community College
+Nashua Community College
+River Valley Community College
+Atlantic Cape Community College
+Bergen Community College
+Brookdale Community College
+Camden County College
+County College of Morris
+Cumberland County College
+Essex County College
+Hudson County Community College
+Middlesex County College
+Ocean County College
+Passaic County Community College
+Raritan Valley Community College
+Salem Community College
+Sussex County Community College
+Union County College
+Warren County Community College
+Clovis Community College
+Luna Community College
+Mesalands Community College
+New Mexico Junior College
+San Juan College
+Santa Fe Community College
+Adirondack Community College
+ASA College
+Cayuga County Community College
+Clinton Community College
+CUNY Bronx Community College
+CUNY Hostos Community College
+CUNY LaGuardia Community College
+Dutchess Community College
+Finger Lakes Community College
+Genesee Community College
+Hudson Valley Community College
+Jamestown Community College
+Jefferson Community College
+Mohawk Valley Community College
+Monroe Community College
+Nassau Community College
+Niagara County Community College
+North Country Community College
+Onondaga Community College
+Orange County Community College
+Rockland Community College
+Suffolk County Community College
+SUNY Broome Community College
+Technical Career Institutes
+Ulster County Community College
+Alamance Community College
+Bladen Community College
+Blue Ridge Community College
+Brunswick Community College
+Cape Fear Community College
+Carteret Community College
+Catawba Valley Community College
+Cleveland Community College
+College of the Albemarle
+Craven Community College
+Edgecombe Community College
+Halifax Community College
+Haywood Community College
+Isothermal Community College
+James Sprunt Community College
+Johnston Community College
+Louisburg College
+Mayland Community College
+Mitchell Community College
+Montgomery Community College
+Nash Community College
+Piedmont Community College
+Pitt Community College
+Randolph Community College
+Richmond Community College
+Robeson Community College
+Rockingham Community College
+Sampson Community College
+Sandhills Community College
+South Piedmont Community College
+Stanly Community College
+Surry Community College
+Wake Technical Community College
+Wayne Community College
+Wilkes Community College
+Wilson Community College
+Lake Region State College
+Williston State College
+Belmont College
+Central Ohio Technical College
+Clark State Community College
+Columbus State Community College
+Edison State Community College
+Hocking College
+James A Rhodes State College
+Lakeland Community College
+Lorain County Community College
+Marion Technical College
+North Central State College
+Owens Community College
+Southern State Community College
+Stark State College
+Terra State Community College
+Zane State College
+Carl Albert State College
+Connors State College
+Eastern Oklahoma State College
+Murray State College
+Northeastern Oklahoma A&M College
+Northern Oklahoma College
+Oklahoma City Community College
+Redlands Community College
+Rose State College
+Seminole State College of Florida
+Tulsa Community College
+Western Oklahoma State College
+Blue Mountain Community College
+Central Oregon Community College
+Chemeketa Community College
+Clackamas Community College
+Clatsop Community College
+Columbia Gorge Community College
+Klamath Community College
+Mt Hood Community College
+Rogue Community College
+Umpqua Community College
+Bucks County Community College
+Butler County Community College
+Harcum College
+Miami Dade College
+Lackawanna College
+Lehigh Carbon Community College
+Luzerne County Community College
+Manor College
+Pittsburgh Technical Institute
+Reading Area Community College
+Denmark Technical College
+Greenville Technical College
+Midlands Technical College
+Northeastern Technical College
+Piedmont Technical College
+Spartanburg Community College
+Spartanburg Methodist College
+Trident Technical College
+Williamsburg Technical College
+CUNY New York City College of Technology
+Lake Area Technical Institute
+Mitchell Technical Institute
+Southeast Technical Institute
+Columbia State Community College
+Jackson State Community College
+Roane State Community College
+Walters State Community College
+Alvin Community College
+Amarillo College
+Angelina College
+Blinn College
+Brookhaven College
+Cedar Valley College
+Central Texas College
+Schreiner University
+Cisco College
+Clarendon College
+Coastal Bend College
+College of the Mainland
+Del Mar College
+Eastfield College
+El Centro College
+El Paso Community College
+Galveston College
+Grayson College
+Stonehill College
+Houston Community College
+Howard College
+Kilgore College
+Lamar Institute of Technology
+Laredo Community College
+Lone Star College System
+McLennan Community College
+Navarro College
+North Central Texas College
+North Lake College
+Northwest Vista College
+Odessa College
+Palo Alto College
+Panola College
+Paris Junior College
+Ranger College
+Richland College
+San Antonio College
+South Plains College
+Southwest Texas Junior College
+St Philip's College
+Temple College
+Texarkana College
+Trinity Valley Community College
+Tyler Junior College
+Vernon College
+Victoria College
+Weatherford College
+Western Texas College
+Wharton County Junior College
+Salt Lake Community College
+Community College of Vermont
+Danville Community College
+Eastern Shore Community College
+Germanna Community College
+John Tyler Community College
+Lord Fairfax Community College
+New River Community College
+Patrick Henry Community College
+Paul D Camp Community College
+Rappahannock Community College
+Thomas Nelson Community College
+Tidewater Community College
+Wytheville Community College
+Bates Technical College
+Bellingham Technical College
+Big Bend Community College
+Lewis & Clark College
+Clover Park Technical College
+Edmonds Community College
+Everett Community College
+Grays Harbor College
+Lower Columbia College
+Renton Technical College
+Shoreline Community College
+Skagit Valley College
+Spokane Community College
+Spokane Falls Community College
+Tacoma Community College
+Walla Walla Community College
+Wenatchee Valley College
+Whatcom Community College
+Yakima Valley Community College
+Huntington Junior College
+Blackhawk Technical College
+Fox Valley Technical College
+Gateway Technical College
+Lakeshore Technical College
+Madison Area Technical College
+Milwaukee Area Technical College
+Moraine Park Technical College
+Nicolet Area Technical College
+Northcentral Technical College
+University of Wisconsin - Madison
+University of Wisconsin Colleges
+Western Technical College
+Casper College
+Central Wyoming College
+Eastern Wyoming College
+Laramie County Community College
+Northwest College
+Sheridan College
+Wayland Baptist University
+Polk State College
+Brescia University
+Rogers State University
+Neumann University
+Ashford University
+McPherson College
+Defiance College
+Gulf Coast State College
+Point Park University
+Northwood University - Michigan

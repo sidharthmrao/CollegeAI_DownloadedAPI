@@ -1,1 +1,17 @@
 ---
+# Options are in college_list.txt
+
+colleges:
+  - Michigan State University
+  - Xavier University
+  - etc
+
+# Options: 'collegeId', 'collegeUnitId', 'acceptanceRate', 'actCumulativeMidpoint', 'actCumulativePercentile25', 'actCumulativePercentile75', 'admissionsWebsite', 'aliases', 'applicationWebsite', 'averageAidAwardedHighIncome', 'averageAidAwardedLowerMiddleIncome', 'averageAidAwardedLowIncome', 'averageAidAwardedMiddleIncome', 'averageAidAwardedUpperMiddleIncome', 'averageFinancialAid', 'avgCostOfAttendance', 'avgNetPrice', 'calendarSystem', 'campusImage', 'city', 'classSizeRange10To19', 'classSizeRange20To29', 'classSizeRange2To9', 'classSizeRange30To39', 'classSizeRange40To49', 'classSizeRange50To99', 'classSizeRangeOver100', 'financialAidWebsite', 'fourYearGraduationRate', 'freshmenLiveOnCampus', 'inStateTuition', 'isPrivate', 'mealPlanAvailable', 'medianEarningsSixYrsAfterEntry', 'medianEarningsTenYrsAfterEntry', 'menVarsitySports', 'netPriceByIncomeLevel0To3000', 'netPriceByIncomeLevel110001Plus', 'netPriceByIncomeLevel30001To48000', 'netPriceByIncomeLevel48001To75000', 'netPriceByIncomeLevel75001To110000', 'offersStudyAbroad', 'onCampusHousingAvailable', 'outOfStateTuition', 'percentOfStudentsWhoReceiveFinancialAid', 'percentStudentsReceivingFederalGrantAid', 'percentUndergradsAwardedAid', 'rankingsBestCollegeAcademics', 'rankingsBestCollegeAthletics', 'rankingsBestCollegeCampuses', 'rankingsBestCollegeFood', 'rankingsBestCollegeLocations', 'rankingsBestCollegeProfessors', 'rankingsBestColleges', 'rankingsBestCollegesForArt', 'rankingsBestCollegesForBiology', 'rankingsBestCollegesForChemistry', 'rankingsBestCollegesForCommunications', 'rankingsBestCollegesForComputerScience', 'rankingsBestCollegesForEconomics', 'rankingsBestCollegesForEngineering', 'rankingsBestCollegesForHistory', 'rankingsBestCollegesForNursing', 'rankingsBestCollegesForPhysics', 'rankingsBestGreekLifeColleges', 'rankingsBestStudentAthletes', 'rankingsBestStudentLife', 'rankingsBestValueColleges', 'rankingsCollegesThatAcceptTheCommonApp', 'rankingsHardestToGetIn', 'rankingsHottestGuys', 'rankingsMostDiverseColleges', 'rankingsTopPartySchools', 'region', 'satAverage', 'satCompositeMidpoint', 'satCompositePercentile25', 'satCompositePercentile75', 'satMathMidpoint', 'satMathPercentile25', 'satMathPercentile75', 'satReadingMidpoint', 'satReadingPercentile25', 'satReadingPercentile75', 'studentFacultyRatio', 'studentsSubmittingACT', 'studentsSubmittingSAT', 'typeYear', 'typical10YearEarnings', 'typical6YearEarnings', 'typicalBooksAndSupplies', 'typicalFinancialAid', 'typicalMiscExpenses', 'typicalRoomAndBoard', 'undergradApplicationFee', 'undergraduateSize', 'womenVarsitySports', 'rankingsBestCollegesForBusiness', 'rankingsBestCollegesForDesign', 'rankingsMostConservativeColleges', 'rankingsMostLiberalColleges', 'fraternitiesPercentParticipation', 'rankingsBestTestOptionalColleges', 'rankingsCollegesWithNoApplicationFee'
+
+traits:
+  - acceptanceRate
+  - actCumulativeMidpoint
+  - etc
+
+input_path: college_info.csv
+output_path: output_data.csv
