@@ -15,3 +15,5 @@ pip install pyyaml
 and then do the steps after poetry install before.
 
 Or just use the "college_info.csv" file directly, whatever you want to.
+
+also lmao if you use this star the repo, i want clout
